@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-**yuvrajbadal/yuvrajbadal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # Spider-Man Style GitHub Profile
 
 🕷️ **Hey, I'm a developer with a curious mind and a builder's heart.**
