@@ -2,15 +2,24 @@
 
 <!--
 **yuvrajbadal/yuvrajbadal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Spider-Man Style GitHub Profile
 
-Here are some ideas to get you started:
+🕷️ **Hey, I'm a developer with a curious mind and a builder's heart.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **Currently building:** Websites, apps, UI/UX experiences & random ideas that come to life.
+
+🌱 **Currently learning:** AI/ML, advanced web development & app development.
+
+🕸️ **My web-slinging skills:** HTML • CSS • JavaScript • UI/UX • AI • App Development
+
+💡 **My superpower:** Turning an idea into something real — I love building **anything & everything** that sparks my curiosity.
+
+🤝 **Looking to collaborate on:** Cool websites, AI projects, apps, creative tools & anything challenging.
+
+💬 **Ask me about:** Web development, UI/UX, JavaScript, AI or building projects from scratch.
+
+⚡ **Fun fact:** *With great curiosity comes great projects.* 🕷️
+
+🚀 **Goal:** Learn. Build. Break. Fix. Repeat.
+
+> *“Anyone can wear the mask. The real power is what you build with it.”* 🕷️
